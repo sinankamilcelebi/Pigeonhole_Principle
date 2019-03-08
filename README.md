@@ -1,11 +1,11 @@
 # Pigeonhole_Principle
 Phone_Area_Code_Region_Count
 
-= @file     : Phone_Area_Code_Region_Count_(Pigeonhole_Principle).ipynb
-= @author   : Sinan KAMILCELEBI
-= @version  : V1.0.0
-= @date     : 08-March-2019
-= @brief    : Telefon Alan Kodu Bölge Sayısı (Güvercin Yuvası İlkesi).
+* @file     : Phone_Area_Code_Region_Count_(Pigeonhole_Principle).ipynb
+* @author   : Sinan KAMILCELEBI
+* @version  : V1.0.0
+* @date     : 08-March-2019
+* @brief    : Telefon Alan Kodu Bölge Sayısı (Güvercin Yuvası İlkesi).
 
 # Örnek Soru: 
 K milyon telefon abonesi bulunan bir ülkede, telefon numaraları bölge kodundan sonra NXX-XXXX (N = (2...9), X = (0...9)) biçimindedir. Buna göre bu ülkede en az kaç bölge vardır?
