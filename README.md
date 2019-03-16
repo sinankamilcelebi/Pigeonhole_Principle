@@ -1,3 +1,9 @@
+<p align="center">
+<a href="https://colab.research.google.com/github/sinankamilcelebi/Pigeonhole_Principle/blob/master/Phone_Area_Code_Region_Count_(Pigeonhole_Principle).ipynb">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" width="150" height="50" alt="Open In Colab"/>
+</a>
+</p>
+
 # Pigeonhole_Principle
 Phone_Area_Code_Region_Count
 
@@ -16,3 +22,4 @@ Bir bölgede 8 x 10 ^ 6 olası telefon numarası vardır. 25 milyon telefon numa
 
 ## Açıklamalar: 
 Yukarıdaki örnekte K ifadesi güvercin sayısını, bir bölgedeki olası telefon numara sayısı ise güvercin yuvasını temsil etmektedir. Ülkedeki en az bölge sayısını, telefon abone sayısını (güvercin sayısı) bir bölgedeki olası telefon numara sayısına (yuva sayısı) bölerek elde ederiz.
+ 
