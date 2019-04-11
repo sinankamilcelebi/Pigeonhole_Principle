@@ -5,7 +5,6 @@
 </p>
 
 # Pigeonhole_Principle
-Phone_Area_Code_Region_Count
 
 * @file      : Phone_Area_Code_Region_Count_(Pigeonhole_Principle).ipynb
 * @author    : Sinan KAMILCELEBI
