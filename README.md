@@ -22,7 +22,7 @@ Bir bölgede 8 x 10 ^ 6 olası telefon numarası vardır. 25 milyon telefon numa
 ## Açıklamalar: 
 
 <p align = "center">
-<img src = "pigeonhole_principle_I.jpg" alt = "Pigeonhole Principle" title = "Pigeonhole Principle" width = "300" height = "150" />
+<img src = "pigeonhole_principle_I.jpg" alt = "Pigeonhole Principle" title = "Pigeonhole Principle" width = "300" height = "350" />
 </p>
 
 g, y ∈ Z+   
@@ -35,7 +35,7 @@ NOT: g ≤ y olması durumunda dahi ceil(g / y) = 1 olacaktır.
 Örnek olarak g = 4 ve y = 3 ise en az bir yuva ceil(4 / 3) = 2 güvercin içerir.  
 
 <p align = "center">
-<img src = "pigeonhole_principle_II.jpg" alt = "Pigeonhole Principle" title = "Pigeonhole Principle" width = "300" height = "150" />
+<img src = "pigeonhole_principle_II.jpg" alt = "Pigeonhole Principle" title = "Pigeonhole Principle" width = "300" height = "100" />
 </p>
 
 Yukarıdaki örnekte K ifadesi güvercin sayısını, bir bölgedeki olası telefon numara sayısı ise güvercin yuvasını temsil etmektedir. Ülkedeki en az bölge sayısını, telefon abone sayısını (güvercin sayısı) bir bölgedeki olası telefon numara sayısına (yuva sayısı) bölerek elde ederiz.
